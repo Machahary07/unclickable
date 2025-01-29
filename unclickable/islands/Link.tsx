@@ -1,6 +1,6 @@
 const LinkButton = () => {
     return (
-        <a href="https://github.com/Machahary07/ily" target="_blank" rel="noopener noreferrer" style={styles.link}>
+        <a href="https://github.com/Machahary07/unclickable" target="_blank" rel="noopener noreferrer" style={styles.link}>
             <button style={styles.button}>
                 Source Code
                 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style={styles.icon} />
